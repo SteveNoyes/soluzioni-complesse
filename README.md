@@ -53,9 +53,9 @@ Questo sito aiuterà a portare le persone a soluzioni utili per il disturbo da s
 
 ### Useful resources
 
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+- [Bootstrap CDN](https://www.bootstrapcdn.com/) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
 
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+- [CSS Reset](https://meyerweb.com/eric/tools/css/reset/) - Reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, etc.
 
 - [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
 
