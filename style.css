@@ -1,0 +1,20 @@
+body {
+  overflow: hidden;
+}
+.box {
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+  background: red;
+  animation: motion infinite;
+  position: relative;
+  animation-duration: .9s;
+  top: 175px;
+  
+}
+
+@keyframes motion {
+  0%{left: 0%;}
+  50%{left: 95%;}  
+  100%{left: 0%;}
+}
