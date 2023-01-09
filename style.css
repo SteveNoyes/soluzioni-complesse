@@ -6,13 +6,12 @@ body {
 .box {
   height: 50px;
   width: 50px;
-  border: 1px solid black;
   border-radius: 50%;
   background: blue;
   animation: motion infinite;
   position: relative;
-  animation-duration: 2s;
-  top: 175px;
+  animation-duration: 3s;
+  top: 1px;
 }
 
 .box p {
@@ -26,7 +25,7 @@ body {
 
 @keyframes motion {
   0%{left: 0%;}
-  50%{left: 90%;}  
+  50%{left: 95%;}  
   100%{left: 0%;}
 }
 
