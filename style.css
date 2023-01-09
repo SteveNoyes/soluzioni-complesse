@@ -1,7 +1,7 @@
-/* emdr */
+/* EMDR */
 
 body {
-  overflow: hidden;
+  overflow-x: hidden;
 }
 .box {
   height: 50px;
@@ -10,14 +10,16 @@ body {
   background: red;
   animation: motion infinite;
   position: relative;
-  animation-duration: .9s;
+  animation-duration: 1.5s;
   top: 175px;
   
 }
 
+/* make media query for desktop */
+
 @keyframes motion {
   0%{left: 0%;}
-  50%{left: 95%;}  
+  50%{left: 90%;}  
   100%{left: 0%;}
 }
 
